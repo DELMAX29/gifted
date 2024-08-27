@@ -3,7 +3,7 @@ const fs = require("fs");
 require("dotenv").config();
 
 const config = {
-  SESSION_ID: process.env.SESSION_ID || "Gifted~Cs1sG0cK",
+  SESSION_ID: process.env.SESSION_ID || "Gifted~kLQWAgUF",
   HEROKU_API_TOKEN: process.env.HEROKU_API_TOKEN || "",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   KOYEB_API_TOKEN: process.env.KOYEB_API_TOKEN || "",
